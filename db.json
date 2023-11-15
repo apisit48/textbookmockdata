@@ -2,11 +2,11 @@
   "books": [
     {
       "id": 100001,
-      "isbn": 34534181233,
+      "isbn": 45,
       "title": "Charmander",
-      "condition": "Like New",
-      "published": "Feb 2, 2020",
-      "price": 400,
+      "condition": "Blaze",
+      "published": "20",
+      "price": Fire,
       "freeShipping": true
     },
     {
