@@ -5,8 +5,8 @@
       "isbn": 45,
       "title": "Charmander",
       "condition": "Blaze",
-      "published": "20",
-      "price": "Fire",
+      "published": 20,
+      "price": 400,
       "freeShipping": true
     },
     {
