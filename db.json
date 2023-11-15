@@ -6,7 +6,7 @@
       "title": "Charmander",
       "condition": "Blaze",
       "published": "20",
-      "price": Fire,
+      "price": "Fire",
       "freeShipping": true
     },
     {
